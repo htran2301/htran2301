@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Theresa
 - 👀 I’m interested in learning, researching in Business Analytics
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently a Master Student in Master of Science in Data Sciene and Analytics at Georgia State University 
 - 💞️ I’m looking to collaborate on project in Business Analytics 
 - 📫 How to reach me : send me an email to tranle2301.01@gmail.com
 - 😄 Pronouns: She/Her
