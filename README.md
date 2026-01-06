@@ -18,7 +18,8 @@ You can click the Preview link to take a look at your changes.
 -  Master of Science in Data Science and Analytics - 📍 Georgia State University (Expected December 2026)
 GPA: 3.93/4.0 
 - Bachelor of Business Administration in Computer Information System ( Data Analytics) - Georgia State University (May 2025)
-GPA: 3.89/4.0 - Summa Cum Laude distinction
+GPA: 3.89/4.0 - Magna Cum Laude <img width="468" height="10" alt="image" src="https://github.com/user-attachments/assets/f79eb11f-b3c7-4051-8228-29f09fe275d1" />
+
 - Associate Degree in Business Administration - Seattle Central College ( December 2022) 
 GPA: 4.0/4.0 
 
