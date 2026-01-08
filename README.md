@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Theresa
 - 👀 I’m interested in learning, researching in Data Science, Data Analytics/ Business Analytics
-- 🌱 I’m currently a Master Student in Master of Science in Data Sciene and Analytics at Georgia State University 
+- 🌱 I’m currently a Master Student in Master of Science in Data Sciene and Analytics at Georgia State University,
+- I'm working as a Graduate Research Assistant at Georgia State University, working on real-world data analytics projects using industry-partner datasets. Experienced in applying data science and statistical techniques to solve practical business and research problems.
 - 💞️ I’m looking for an internship in Summer 2026 in Data field, and a job after graduation in December 2026.  
 - 📫 How to reach me : send me an email to tranle2301.01@gmail.com, or connect with me on Linkedln: www.linkedin.com/in/tranle2301
 - 😄 Pronouns: She/Her
